@@ -6,7 +6,7 @@
   <!-- <a href="https://desafio.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Desafio</h1>
+<h1 align="center">Ignite | Trilha NodeJS: Desafio 2 - Trabalhando com middlewares</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-trabalhando-com-middlewares?color=04d361&style=for-the-badge">
@@ -24,13 +24,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiilins/ignite-trabalhando-com-middlewares?color=04d361&style=for-the-badge" /> -->
 </p>
 
-<!-- Status -->
 
-<!-- <h4 align="center">
-	🚧  Desafio 🚀 Em construção...  🚧
-</h4>
-
-<hr> -->
 
 <p align="center">
   <a href="#computer-sobre-o-desafio">Sobre</a> &#xa0; | &#xa0;
