@@ -33,7 +33,7 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
+  <a href="#computer-sobre-o-desafio">Sobre</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
@@ -43,7 +43,7 @@
 
 <br>
 
-## :dart: Sobre o desafio
+## :computer: Sobre o desafio
 
 Nesse desafio você irá trabalhar mais a fundo com middlewares no Express. Dessa forma você será capaz de fixar mais ainda os conhecimentos obtidos até agora.
 &#xa0;
@@ -68,31 +68,22 @@ Com todas as validações passando, o _todo_ encontrado deve ser passado para o 
 
 &#xa0;
 
-
-
 ### findUserById
 
 Esse middleware possui um funcionamento semelhante ao middleware `checksExistsUserAccount` mas a busca pelo usuário deve ser feita através do **id** de um usuário passado por parâmetro na rota. Caso o usuário tenha sido encontrado, o mesmo deve ser repassado para dentro do `request.user` e a função next deve ser chamada.
 
 &#xa0;
 
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
 ## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-
-&#xa0;
-
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+  &#xa0;
 
 ## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
-
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
 ## :checkered_flag: Começando
 
@@ -107,12 +98,10 @@ $ cd desafio
 $ yarn
 
 # Para iniciar o projeto
-$ yarn start
+$ yarn dev
 
 # O app vai inicializar em <http://localhost:3000>
 ```
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
 
 ## :memo: Licença
 
@@ -122,4 +111,4 @@ Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thia
 
 &#xa0;
 
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+ <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
